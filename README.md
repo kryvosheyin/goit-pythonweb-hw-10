@@ -12,4 +12,4 @@ fastapi dev main.py
 
 Access to swagger : http://localhost:8000/docs
 
-![alt text](image.png)
+![alt text](image-1.png)
