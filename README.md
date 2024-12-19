@@ -15,9 +15,9 @@ JWT_SECRET=secret_key
 JWT_ALGORITHM=HS256
 JWT_EXPIRATION_SECONDS=3600
 
-MAIL_USERNAME=screamer916@gmail.com
-MAIL_PASSWORD=tbhr lfwh ulku mmzn
-MAIL_FROM=screamer916@gmail.com
+MAIL_USERNAME=s
+MAIL_PASSWORD=
+MAIL_FROM=
 MAIL_PORT=587
 MAIL_SERVER=smtp.gmail.com
 MAIL_FROM_NAME=Example email
@@ -26,9 +26,9 @@ MAIL_SSL_TLS=False
 USE_CREDENTIALS=True
 VALIDATE_CERTS=True
 
-CLD_NAME=dpehbjbce
-CLD_API_KEY=562444567144183
-CLD_API_SECRET=wpEBcXH3MU_rA9Sxldg6-cjWIx0
+CLD_NAME=
+CLD_API_KEY=
+CLD_API_SECRET=
 ```
 
 To run the application use the following commands
